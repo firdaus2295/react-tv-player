@@ -14,9 +14,9 @@ export type MediaType = {
 
 const mediaList: MediaType[] = [
   {
-    url: " https://mifntechnology.github.io/siaranMy/myIPtv.m3u8",
-    title: "YouTube Video Sample",
-    subTitle: "Caminandes 3: Llamigos",
+    url: "https://mifntechnology.github.io/siaranMy/myIPtv.m3u8",
+    title: "TV Malaysia",
+    subTitle: "All Channel",
     preview: true,
   },
   {
